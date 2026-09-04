@@ -28,6 +28,10 @@ VB.NET VS 2010 working copy of Stratatel Haiku Candy: VSTO Outlook 2007/2010 add
 
 Open `Haiku.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2010, .NET Framework 2.0, .NET Framework 3.5, .NET Framework 4.0
+
 ## Attribution and provenance
 
 - **Assembly company:** Microsoft, Stratatel Ltd
