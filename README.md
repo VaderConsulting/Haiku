@@ -34,6 +34,7 @@ Open `Haiku.sln` in Visual Studio.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `Haiku`.
 - **Assembly company:** Microsoft, Stratatel Ltd
 - **Assembly copyright:** Copyright @ Microsoft 2011, Copyright © Microsoft 2011, Copyright © Stratatel Ltd 2011
 
